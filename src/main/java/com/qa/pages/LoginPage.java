@@ -11,4 +11,7 @@ public class LoginPage {
 	{
 		System.out.println("set ");
 	}
+	LoginPage(){
+		
+	}
 }
